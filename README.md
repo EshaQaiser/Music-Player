@@ -24,7 +24,9 @@ It allows users to **play, pause, and manage music tracks** with a responsive an
 
 ## 📂 Project Structure
 Music-Player/
+
 ├── backend/ # Node.js server, APIs, and music data handling
+
 └── frontend/ # User interface and player controls
 
 ---
